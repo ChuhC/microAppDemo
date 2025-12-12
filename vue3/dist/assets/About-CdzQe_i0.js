@@ -1,0 +1,1 @@
+import{r as t,c as s,b as r,a as n,t as l,o as u}from"./index-DN73KZ5i.js";const i={__name:"About",setup(c){const o=t({});return window.microApp?.addDataListener(e=>{console.log(e),o.value=e}),(e,a)=>(u(),s("div",null,[a[0]||(a[0]=r(" 这是子应用的About页面 ",-1)),n("span",null,"来自主应用的数据"+l(o.value.userName),1)]))}};export{i as default};

@@ -1,0 +1,1 @@
+import{c as o,a,o as s}from"./index-DN73KZ5i.js";const n={__name:"User",setup(t){return window.microApp?.dispatch({type:"子应用事件",data:{message:"Hello from child"}}),(l,e)=>(s(),o("div",null,[...e[0]||(e[0]=[a("h1",null,"用户管理",-1),a("span",null,"子应用的",-1)])]))}};export{n as default};

@@ -1,0 +1,1 @@
+import{r as a,c as s,a as o,t as n,o as r}from"./index-DN73KZ5i.js";const l={class:"home"},u={__name:"Home",setup(p){const t=a(window.microApp?.getData());return console.log(t),(m,e)=>(r(),s("div",l,[e[0]||(e[0]=o("h1",null,"Home",-1)),e[1]||(e[1]=o("p",null,"子应用的Home page",-1)),o("div",null,"主应用的数据"+n(t.value.userName),1)]))}};export{u as default};
